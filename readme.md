@@ -47,6 +47,6 @@ Este repositorio es parte de mi proceso de aprendizaje constante.
 
 Lucas Figueroa
 
-* Email: [figueroa.dev93@gmail.com](figueroa.dev93@gmail.com)
-* LinkedIn: [www.linkedin.com/in/lucas-figueroa](www.linkedin.com/in/lucas-figueroa-94711b260)
-* Portafolio: [Mi Portafolio - Figueroa Lucas](https://portafolio-five-xi-26.vercel.app/)
+- **Email**: lucasafigueroa93@gmail.com
+- **GitHub**: https://github.com/LucasFigueroaDev
+- **Portafolio**: https://portafolio-five-xi-26.vercel.app/
