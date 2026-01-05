@@ -45,8 +45,8 @@ Este repositorio es parte de mi proceso de aprendizaje constante.
 
 ## Autor
 
-Lucas Figueroa
-
+- **Nombre**: Figueroa Lucas
 - **Email**: lucasafigueroa93@gmail.com
 - **GitHub**: https://github.com/LucasFigueroaDev
 - **Portafolio**: https://portafolio-five-xi-26.vercel.app/
+- **Linkedin**: https://linkedin.com/in/lucas-a-figueroa
